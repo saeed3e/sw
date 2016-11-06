@@ -15,4 +15,4 @@ index.html
 
 
 FALLBACK:
-/c/style_test.css /c/style_fallback.css
+./c/style_test.css ./c/style_fallback.css
