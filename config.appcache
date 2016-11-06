@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+#2014-10-11 v1.1.6
+
+CACHE:
+/c/style_v5-min.css
+/i/bg.jpg
+/i/overlay-pattern.png
+/i/photo.jpg
+/i/overlay.svg
+/j/plugs.js
+
+NETWORK:
+index.htm
+
+
+FALLBACK:
+/c/style_test.css /c/style_fallback.css
