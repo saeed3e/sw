@@ -1,6 +1,6 @@
 CACHE MANIFEST
 
-#2014-10-11 v1.1.6
+#2016-11-06 v1.0.0
 
 CACHE:
 /c/style_v5-min.css
@@ -11,7 +11,7 @@ CACHE:
 /j/plugs.js
 
 NETWORK:
-index.htm
+index.html
 
 
 FALLBACK:
