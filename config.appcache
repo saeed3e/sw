@@ -3,12 +3,12 @@ CACHE MANIFEST
 #2016-11-06 v1.0.0
 
 CACHE:
-/c/style_v5-min.css
-/i/bg.jpg
-/i/overlay-pattern.png
-/i/photo.jpg
-/i/overlay.svg
-/j/plugs.js
+./c/style_v5-min.css
+./i/bg.jpg
+./i/overlay-pattern.png
+./i/photo.jpg
+./i/overlay.svg
+./j/plugs.js
 
 NETWORK:
 index.html
