@@ -11,7 +11,7 @@ CACHE:
 ./j/plugs.js
 
 NETWORK:
-index.html
+./index.html
 
 
 FALLBACK:
